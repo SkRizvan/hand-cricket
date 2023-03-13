@@ -1,0 +1,24 @@
+When ever the user wants to enter any input the camera window opens and asks user for number of fingers.
+The distance between the fingers is approximate alter the code according to your requirements .
+run the handcricket.py file and enjoy the game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👋 Hi, I’m Shaik Rizvan.
+👀 I’m interested in Programming and front end development
+🌱 I’m currently learning java and reinforcement learning using python
+💞️ I’m looking to collaborate on different projects.
+📫 Reach me at sk.rizvan4545@gmail.com
